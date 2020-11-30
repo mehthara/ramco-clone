@@ -1,0 +1,326 @@
+#main-nav{
+
+	line-height: 1.715;
+	font-family: "Open Sans" , sans-serif !important;
+	font-size: 15px;
+	color: #FFFFFF !important;
+
+}
+
+
+#home{
+
+	background-color: #020202;
+	color: #FFFFFF !important;
+	margin-bottom: 0px;
+
+}
+
+.fixed-top.scrolled {
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+  
+}
+
+
+#title-icon{
+
+	border-radius: all;
+}
+
+.inner_heading{
+
+	position: relative;
+	
+	
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #fff;
+	font-family: "Open Sans", sans-serif;
+	
+	font-size: 2rem;
+
+	
+}
+
+
+
+.sub_heading{
+color: #fff;
+	font-family: sans-serif;
+	
+	
+	padding-bottom: 30px;
+
+}
+
+.card-deck{
+
+padding-bottom: 15px;
+
+
+}
+
+.icons{
+	width: 45%;
+
+}
+#icon{
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 50px;
+}
+
+
+
+.truck_banner{
+
+	background-image: url("https://www.ramco.com/new-16/images/banners/inner-banner-logistics-truck.jpg");
+	width:100%;
+	justify-content: center;
+	min-height: 250px;
+	margin-top: 0px;
+	background-repeat: no-repeat;
+	align-content: center;
+
+	
+}
+
+.card{
+	border-left: 0;
+	border-bottom: 0;
+	border-right: 0;
+	border-top: 0;
+}
+
+#intro{
+
+	background-color: #f7f7f7 !important;
+	
+	padding: 30px 0;
+	margin-top: 0px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+
+
+
+.navbar-toggler-icon{
+	background-color: orange;
+	border-color: orange;
+	color: #fff !important;
+	
+}
+
+
+#testimonials{
+
+	height: auto;
+	background-image: url("https://www.ramco.com/new-16/images/testimonials-bg.jpg");
+	background-size : cover;
+	color: #ffffff !important;
+	align-content: center;
+	padding-top: 30px;
+	
+	padding-bottom: 20px;
+	font-size: 18px !important;
+	font-weight: 400;
+	margin-bottom: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+
+
+#Benefits{
+
+	background-color: #f7f7f7 !important;
+	align-content: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+
+}
+.blue{
+	color: #2b99e2 !important;
+}
+
+#icons{
+
+	background-color: #FFFFFF;
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav-link{
+	color: #ffffff !important;
+}
+
+.like {
+
+
+    line-height: 20px !important;
+    margin-left: 0px !important;
+    font-size: 15px !important;
+    text-align: left;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+
+
+#resource a{
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+}
+
+#Global_Customers{
+
+	height: 250px;
+	
+}
+
+
+.yellow{
+	color: #ee9f07;
+	font-size: 44px;
+	padding: 5px;
+}
+
+#Contact{
+
+	background-color: #3e3e3e !important;
+    border-top: 20px;
+    color: #ccc !important;
+    font-size: 20px;
+    margin: 50px 0 0px;
+    
+    height: 150px;
+    display: flex;
+}
+
+
+#footer {
+    background-color: #000000 !important;
+    color: #666;
+    font-size: 12px !important;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#footer a{
+  
+    color: #666;
+    font-size: 12px !important;
+    
+}
+
+
+
+
+#Contact a{
+	color: #c6c6cc;
+	padding: 15px 15px 15px 15px;
+	justify-content: bottom;
+	font-size: 15px;
+	
+}
+
+#Contact .list-inline-item a{
+	padding: 0;
+	background-color: #233a77;
+	
+}
+#Contact .list-inline-item i{
+
+	text-align: center;
+	padding: 0;
+	width: 30px;
+	height: 50px;
+	color: white;
+}
+
+body{
+
+	text-align: center;
+	color: #666666;
+	font-family: "Open Sans",sans-serif;
+	font-size: 14px;
+	
+}
+
+.carousel-item{
+
+	text-align: center;
+	color: white !important;
+	font-size: 24px !important;
+	font-family: "Open Sans", sans-serif !important;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+
+	padding-bottom: 40px;
+
+}
+
+
+
+	
+
+
+	
+}
+
+
+
+
+
+p{
+	margin-bottom: 0px !important;
+	color: #666666 !important;
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+
+}
+h5{
+	
+	text-transform: uppercase;
+
+	text-align: center;
+	color: #666666;
+	font-family: sans-serif;
+
+	
+}
+
+h4{
+	text-transform: uppercase;
+	font-family: "Open Sans", sans-serif ;
+	font-size: 15px;
+	font-weight: 600;
+}
+h6{
+
+	text-transform: uppercase;
+
+	text-align: center;
+	color: #666666;
+	font-family: sans-serif;
+
+}
+
+h2{
+	text-transform: uppercase;
+	color: grey;
+	display: block;
+	font-size: 30px;
+	font-family: "Open Sans", sans-serif !important;
+	font-weight: 100;
+}
